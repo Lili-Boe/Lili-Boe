@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 🌱 I’m currently learning git-hub with all its special features
 
 <!--
 **Lili-Boe/Lili-Boe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
